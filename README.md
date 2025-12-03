@@ -1,4 +1,4 @@
-# 🚀 Dotfiles
+# Dotfiles
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Makefile](https://img.shields.io/badge/Built%20with-Make-blue)](Makefile)
@@ -70,21 +70,21 @@
 
 ---
 
-## ✨ About
+## About
 
 Production-ready dotfiles for Linux development environments. Self-contained, offline-capable, and optimized for performance.
 
 **Key Features:**
-- 🚀 One-command setup via Makefile
-- 📦 Works completely offline (no internet required)
-- ⚡ Optimized tmux config (93% smaller, 10x faster)
-- 🔧 Modular ZSH configuration
-- 🎨 Beautiful terminal with Powerline theming
-- 🔄 Smart tmux auto-start (IDE, SSH, and desktop-aware)
+- One-command setup via Makefile
+- Works completely offline (no internet required)
+- Optimized tmux config (93% smaller, 10x faster)
+- Modular ZSH configuration
+- Beautiful terminal with Powerline theming
+- Smart tmux auto-start (IDE, SSH, and desktop-aware)
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -107,7 +107,7 @@ make help
 
 ---
 
-## 📦 What's Included
+## What's Included
 
 ### Core Configuration
 - **ZSH** - Modern shell with Zinit plugin manager, auto-completion, syntax highlighting
@@ -144,7 +144,7 @@ make help
 
 ---
 
-## 🔧 Technologies
+## Technologies
 
 **Shell & Terminal:**
 - [ZSH](https://www.zsh.org/) - Modern shell
@@ -165,7 +165,7 @@ make help
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### Tmux Auto-Start
 
@@ -197,7 +197,7 @@ mytool:  ## Install my custom tool
 
 ---
 
-## 📝 Key Commands
+## Key Commands
 
 ### Tmux Shortcuts
 ```bash
@@ -218,7 +218,7 @@ make help       # Show all targets
 
 ---
 
-## 🎯 Design Philosophy
+## Design Philosophy
 
 **Self-Contained**: All core configurations are included in the repository. No external downloads required for profile setup (ZSH, Tmux, Neovim).
 
@@ -232,7 +232,7 @@ make help       # Show all targets
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! This repository is designed for Linux, cloud, and DevOps administrators to share useful tools and configurations.
 
@@ -244,7 +244,7 @@ Contributions welcome! This repository is designed for Linux, cloud, and DevOps 
 
 ---
 
-## 📄 License
+## License
 
 MIT License - See [LICENSE](LICENSE) file for details
 
@@ -255,12 +255,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ---
 
-## 🙏 Credits
+## Credits
 
 - [Oh my tmux!](https://github.com/gpakosz/.tmux) by @gpakosz
 - [Zinit](https://github.com/zdharma-continuum/zinit) by zdharma-continuum
 - [Pure prompt](https://github.com/sindresorhus/pure) by @sindresorhus
-
----
-
-<p align="center">Made with ❤️ for the terminal</p>

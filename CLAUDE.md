@@ -2,6 +2,14 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Documentation Style Guide
+
+**IMPORTANT: NO EMOJIS IN DOCUMENTATION**
+- NEVER use emojis in any documentation files (README.md, comments, commit messages, etc.)
+- Keep documentation clean, professional, and emoji-free
+- Use clear text formatting instead (bold, italics, lists, code blocks)
+- This applies to all files: Markdown, code comments, configuration files
+
 ## Repository Overview
 
 This is a **dotfiles repository** for Linux development environments. It provides a production-ready, self-contained terminal configuration system with ZSH, Tmux, Neovim, and development tools. The repository is designed to work offline and supports air-gapped environments.
